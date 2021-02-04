@@ -8,7 +8,7 @@ AdvDoor: Adversarial Backdoor Attack of Deep Learning System
 ![image](https://github.com/Anonymous-AdvDoor/AdvDoor/blob/main/img/Res2VGG_Deepfool.png)
 
 #### ResNet to VGGNet, TUAP-C\&W
-
+![image](https://github.com/Anonymous-AdvDoor/AdvDoor/blob/main/img/Res2VGG_CW.png)
 
 #### VGGNet to ResNet, TUAP-Deepfool
 ![image](https://github.com/Anonymous-AdvDoor/AdvDoor/blob/main/img/VGG2Res_Deepfool.png)
