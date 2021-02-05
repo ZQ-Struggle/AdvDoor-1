@@ -2,7 +2,7 @@
 AdvDoor: Adversarial Backdoor Attack of Deep Learning System
 
 
-## Crossing Model Attacks
+## Section5.4.2 Crossing Model Attacks
 
 #### ResNet to VGGNet, TUAP-Deepfool
 ![image](https://github.com/Anonymous-AdvDoor/AdvDoor/blob/main/img/Res2VGG_Deepfool.png)
